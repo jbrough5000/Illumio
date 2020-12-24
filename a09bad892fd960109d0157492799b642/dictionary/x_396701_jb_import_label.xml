@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Label" max_length="40" name="x_396701_jb_import_label" sizeclass="48" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Created at" max_length="40" name="created_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Href" max_length="40" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Key" max_length="40" name="key" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated at" max_length="40" name="updated_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="40" name="updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Value" max_length="40" name="value" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Jb Import 1608743972362" max_length="40" name="x_396701_jb_import_1608743972362" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=created_at" label="created_at" max_length="40" name="u_created_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=created_by" label="created_by" max_length="40" name="u_created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=deleted_at" label="deleted_at" max_length="40" name="u_deleted_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=deleted_by" label="deleted_by" max_length="40" name="u_deleted_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=description" label="description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=fqdns" label="fqdns" max_length="40" name="u_fqdns" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=href" label="href" max_length="40" name="u_href" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ip_ranges" label="ip_ranges" max_length="40" name="u_ip_ranges" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=updated_at" label="updated_at" max_length="40" name="u_updated_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=updated_by" label="updated_by" max_length="40" name="u_updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=update_type" label="update_type" max_length="40" name="u_update_type" type="string"/>
+    </element>
+</database>

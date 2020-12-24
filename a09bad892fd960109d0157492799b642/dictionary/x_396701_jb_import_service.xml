@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Service" max_length="40" name="x_396701_jb_import_service" sizeclass="12" type="collection">
+        <element label="Core service" max_length="40" name="core_service" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Href" max_length="40" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

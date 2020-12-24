@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ven" max_length="40" name="x_396701_jb_import_ven" sizeclass="10" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Activation type" max_length="40" name="activation_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Active pce fqdn" max_length="40" name="active_pce_fqdn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Caps" max_length="40" name="caps" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Conditions" max_length="40" name="conditions" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Container cluster" max_length="40" name="container_cluster" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created at" max_length="40" name="created_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="49" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Href" max_length="49" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Interfaces" max_length="197" name="interfaces" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Labels" max_length="71" name="labels" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last goodbye at" max_length="40" name="last_goodbye_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last heartbeat at" max_length="40" name="last_heartbeat_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Os detail" max_length="109" name="os_detail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Os ID" max_length="40" name="os_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Secure connect" max_length="40" name="secure_connect" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Target pce fqdn" max_length="40" name="target_pce_fqdn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UID" max_length="40" name="uid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unpair allowed" max_length="40" name="unpair_allowed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated at" max_length="40" name="updated_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="49" name="updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Version" max_length="40" name="version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Workloads" max_length="54" name="workloads" type="string"/>
+    </element>
+</database>

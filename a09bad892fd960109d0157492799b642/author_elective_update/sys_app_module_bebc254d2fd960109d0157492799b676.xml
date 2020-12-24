@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Jb Import 1608743293165</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_396701_jb_import_1608743293165</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 17:08:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bebc254d2fd960109d0157492799b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jb Import 1608743293165</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JB Imported" source="x_396701_jb_import">a09bad892fd960109d0157492799b642</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JB Imported">a09bad892fd960109d0157492799b642</sys_scope>
+        <sys_update_name>sys_app_module_bebc254d2fd960109d0157492799b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 17:08:14</sys_updated_on>
+        <timeline_page/>
+        <title>Jb Import 1608743293165</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JB Imported">a09bad892fd960109d0157492799b642</application>
+        <file_path/>
+        <instance_id>8339c7e1db30d810413450b6f496195b</instance_id>
+        <instance_name>dev103547</instance_name>
+        <name>sys_app_module_bebc254d2fd960109d0157492799b676</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Jb Import 1608743293165</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_396701_jb_import_1608743293165</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-23 17:08:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bebc254d2fd960109d0157492799b676</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Jb Import 1608743293165</sys_name><sys_overrides/><sys_package display_value="JB Imported" source="x_396701_jb_import">a09bad892fd960109d0157492799b642</sys_package><sys_policy/><sys_scope display_value="JB Imported">a09bad892fd960109d0157492799b642</sys_scope><sys_update_name>sys_app_module_bebc254d2fd960109d0157492799b676</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-23 17:08:14</sys_updated_on><timeline_page/><title>Jb Import 1608743293165</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>129743759</payload_hash>
+        <record_name>Jb Import 1608743293165</record_name>
+        <reverted_from/>
+        <source>649b650d2fd960109d0157492799b63f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 17:08:14</sys_created_on>
+        <sys_id>fabc254d2fd960109d0157492799b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176909296450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 17:08:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>36bc254db4d960101e7bb48291e2c778</update_guid>
+        <update_guid_history>36bc254db4d960101e7bb48291e2c778:129743759</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Jb Import 1608743293165">44c5e2852f9d60109d0157492799b61f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-23 21:17:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8112d7b6393a48de8126a9af12ea8b51</sys_id>
+        <sys_metadata>bebc254d2fd960109d0157492799b676</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jb Import 1608743293165</sys_name>
+        <sys_package display_value="JB Imported" source="x_396701_jb_import">a09bad892fd960109d0157492799b642</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JB Imported">a09bad892fd960109d0157492799b642</sys_scope>
+        <sys_scope_delete display_value="">a160808af461460583abf26260982481</sys_scope_delete>
+        <sys_update_name>sys_app_module_bebc254d2fd960109d0157492799b676</sys_update_name>
+        <sys_update_version display_value="sys_app_module_bebc254d2fd960109d0157492799b676">fabc254d2fd960109d0157492799b678</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-23 21:17:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

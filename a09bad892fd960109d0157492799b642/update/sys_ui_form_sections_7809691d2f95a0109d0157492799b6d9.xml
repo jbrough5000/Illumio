@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7809691d2f95a0109d0157492799b6d9" sys_domain="global" table="x_396701_jb_import_ruleset" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 11:30:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7809691d2f95a0109d0157492799b6dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_396701_jb_import_ruleset" name="x_396701_jb_import_ruleset" sys_domain="global" view="Default view">7809691d2f95a0109d0157492799b6d9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_396701_jb_import_ruleset" sys_domain="global" view="Default view">167f1d152f95a0109d0157492799b642</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 11:30:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_396701_jb_import_ruleset</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-24 11:30:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7809691d2f95a0109d0157492799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_396701_jb_import_ruleset</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="JB Imported" source="x_396701_jb_import">a09bad892fd960109d0157492799b642</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JB Imported">a09bad892fd960109d0157492799b642</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7809691d2f95a0109d0157492799b6d9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-24 11:30:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

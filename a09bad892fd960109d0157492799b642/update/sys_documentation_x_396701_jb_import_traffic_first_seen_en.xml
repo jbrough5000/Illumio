@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="first_seen" label="First seen" language="en" table="x_396701_jb_import_traffic">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_seen</element>
+            <help/>
+            <hint/>
+            <label>First seen</label>
+            <language>en</language>
+            <name>x_396701_jb_import_traffic</name>
+            <plural>First seens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-23 17:44:42</sys_created_on>
+            <sys_id>8115f1052f1d60109d0157492799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First seen</sys_name>
+            <sys_package display_value="JB Imported" source="x_396701_jb_import">a09bad892fd960109d0157492799b642</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JB Imported">a09bad892fd960109d0157492799b642</sys_scope>
+            <sys_update_name>sys_documentation_x_396701_jb_import_traffic_first_seen_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-23 17:44:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

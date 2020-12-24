@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ruleset" max_length="40" name="x_396701_jb_import_ruleset" sizeclass="7" type="collection">
+        <element label="Consumers (Labels)" max_length="4000" name="consumers" reference="x_396701_jb_import_label" type="glide_list"/>
+        <element label="Consumers (Actors)" max_length="100" name="consumers_actors" type="string"/>
+        <element label="Consumers (IP Lists)" max_length="4000" name="consumers_ip_lists" reference="x_396701_jb_import_ip_list" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Href" max_length="40" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IP tables rules" max_length="40" name="ip_tables_rules" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Providers (Labels)" max_length="4000" name="providers" reference="x_396701_jb_import_label" type="glide_list"/>
+        <element label="Providers (Actors)" max_length="100" name="providers_actors" type="string"/>
+        <element label="Providers (IP Lists)" max_length="4000" name="providers_ip_lists" reference="x_396701_jb_import_ip_list" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Rules" max_length="1727" name="rules" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Scopes" max_length="40" name="scopes" reference="x_396701_jb_import_label" type="glide_list"/>
+        <element label="Services" max_length="4000" name="services" reference="x_396701_jb_import_service" type="glide_list"/>
+    </element>
+</database>

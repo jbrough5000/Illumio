@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Traffic" max_length="40" name="x_396701_jb_import_traffic" sizeclass="1" type="collection">
+        <element label="Connection Count" max_length="40" name="connection_count" type="integer"/>
+        <element label="Destination IP Lists" max_length="4000" name="destination_ip_lists" reference="x_396701_jb_import_ip_list" type="glide_list"/>
+        <element label="Destination Workload" max_length="32" name="destination_workload" reference="x_396701_jb_import_workload" type="reference"/>
+        <element label="Direction" max_length="40" name="direction" type="string"/>
+        <element label="First seen" max_length="40" name="first_seen" type="glide_date_time"/>
+        <element label="Source IP Lists" max_length="32" name="ip_lists" reference="x_396701_jb_import_ip_list" type="glide_list"/>
+        <element label="Last seen" max_length="40" name="last_seen" type="glide_date_time"/>
+        <element label="Port" max_length="40" name="port" type="string"/>
+        <element label="Process name" max_length="100" name="process_name" type="string"/>
+        <element label="Protocol" max_length="40" name="protocol" type="string"/>
+        <element label="Source Workload" max_length="32" name="source_workload" reference="x_396701_jb_import_workload" type="reference"/>
+        <element label="User name" max_length="100" name="user_name" type="string"/>
+        <index name="index">
+            <element name="destination_workload"/>
+        </index>
+        <index name="index2">
+            <element name="ip_lists"/>
+        </index>
+        <index name="index3">
+            <element name="source_workload"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IP List" max_length="40" name="x_396701_jb_import_ip_list" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Created at" max_length="40" name="created_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Deleted at" max_length="40" name="deleted_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Deleted by" max_length="40" name="deleted_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fqdns" max_length="40" name="fqdns" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Href" max_length="40" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IP ranges" max_length="40" name="ip_ranges" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated at" max_length="40" name="updated_at" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated by" max_length="40" name="updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Update type" max_length="40" name="update_type" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Workload" max_length="40" name="x_396701_jb_import_workload" sizeclass="39" type="collection">
+        <element label="Application" max_length="32" name="application" reference="x_396701_jb_import_label" reference_qual="key=app^EQ" reference_qual_condition="key=app^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="76" name="description" type="string"/>
+        <element label="Environment" max_length="32" name="environment" reference="x_396701_jb_import_label" reference_qual="key=env^EQ" reference_qual_condition="key=env^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Hostname" max_length="40" name="hostname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Href" max_length="54" name="href" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Interfaces" max_length="122" name="interfaces" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Labels" max_length="71" name="labels" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="x_396701_jb_import_label" reference_qual="key=loc^EQ" reference_qual_condition="key=loc^EQ" type="reference"/>
+        <element label="Mode" max_length="40" name="mode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Os detail" max_length="109" name="os_detail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Os ID" max_length="40" name="os_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Public IP" max_length="40" name="public_ip" type="string"/>
+        <element label="Role" max_length="32" name="role" reference="x_396701_jb_import_label" reference_qual="key=role^EQ" reference_qual_condition="key=role^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Services" max_length="40" name="services" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ven" max_length="49" name="ven" reference="x_396701_jb_import_ven" type="reference"/>
+        <index name="index">
+            <element name="environment"/>
+        </index>
+        <index name="index2">
+            <element name="role"/>
+        </index>
+        <index name="index3">
+            <element name="application"/>
+        </index>
+        <index name="index4">
+            <element name="location"/>
+        </index>
+    </element>
+</database>
